@@ -1,4 +1,4 @@
-**Introduction**
+##Introduction
 Welcome to the Projectile Motion with Aerodynamic Drag model, a C++ codebase that explores the dynamics of projectiles in the presence of aerodynamic drag. This toolkit serves as a valuable learning resource for students of physics, aerodynamics, and engineering, offering practical insights into how aerodynamic drag influences the motion of physical bodies. The model numerically computes key variables of interest, such as velocity, speed, range, maximum height, and time of flight, for well-known 2D projectile motions with and without aerodynamic drag. This README file provides a detailed overview of the project, its objectives, functionalities, and instructions for usage.
 
 **Getting Started**
