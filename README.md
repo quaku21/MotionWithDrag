@@ -39,6 +39,6 @@ This project is licensed under the MIT License. For more details, refer to the L
 We extend our gratitude to the open-source community for their contributions to C++ libraries and physics simulations. This project wouldn't have been possible without their efforts.
 
 ## Contact
-For any queries or feedback, please contact [Kevin Takyi Yeboah] at [quakukevin@gmail.com].
+For any queries or feedback, please contact Kevin Takyi Yeboah at quakukevin@gmail.com.
 
 Happy learning and exploring the fascinating world of projectile motion with aerodynamic drag!
